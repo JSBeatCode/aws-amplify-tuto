@@ -17,6 +17,12 @@
       },
       "auth": {
         "front1c70ddcf": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d6as7mma71dul",
+          "type": "manual"
+        }
       }
     }
   }
